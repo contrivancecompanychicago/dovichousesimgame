@@ -1,2 +1,2 @@
-public class Dovichousecharacters extends Main {
+public class Dovichousecharacters extends PrevalenceGame {
 }
