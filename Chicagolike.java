@@ -1,2 +1,2 @@
-public class Chicagolike {
+public class Chicagolike extends PrevalenceGame {
 }
