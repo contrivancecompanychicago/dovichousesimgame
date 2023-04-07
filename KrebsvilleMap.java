@@ -1,2 +1,2 @@
-public abstract class KrebsvilleMap {
+public interface KrebsvilleMapIF {
 }
