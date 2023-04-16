@@ -15,7 +15,7 @@ import zelda.karacter.Direction;
  *
  * @author Bas Harteveld
  */
-public class DOVICHouseBasementScene extends Main
+public class DOVICHouseBasementScene extends KrebsvilleWorld
 {
     private Polygon wall1, wall2, wall3, wall4, wall5, wall6, wall7, block1, block2, block3;
 
