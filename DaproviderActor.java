@@ -1,3 +1,3 @@
-public class DaproviderActor extends KrebsvilleWorld
+public class DaproviderActor extends DovicHouseBasementScene
 {
 }
