@@ -1,3 +1,3 @@
-public abstract class KrebsvilleWorld extends Chicagolike
+public abstract class KrebsvilleWorld extends Main
 {
 }
