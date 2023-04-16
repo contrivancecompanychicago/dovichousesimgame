@@ -1,3 +1,3 @@
-public class DaproviderActor extends PrevalenceGame 
+public class DaproviderActor extends KrebsvilleWorld
 {
 }
