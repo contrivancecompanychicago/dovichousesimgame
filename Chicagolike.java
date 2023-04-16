@@ -1,2 +1,2 @@
-public class Chicagolike extends PrevalenceGame {
+public class Chicagolike extends KrebsvilleWorld {
 }
