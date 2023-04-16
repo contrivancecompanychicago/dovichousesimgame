@@ -1,2 +1,2 @@
-public class PrevalenceGame extends Main {
+public abstract class PrevalenceGame extends Main {
 }
