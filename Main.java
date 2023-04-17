@@ -6,8 +6,18 @@ import com.dovichousesimgame.KrebsvilleWorld;
 import com.dovichousesimgame.Chicagolike;
 import com.dovichousesimgame.DovicHouseBasementScene;
 
- class dovichousesimgameMain {
-   public static void main(string[] args) {
-     System.out.println("This is DOVIC House Sim game!");
-   }
+public class dovichousesimgameMain {
+    public static void main(String[] args) {
+        Maze mazeToExplore = new Maze();
+        Maze aux = mazeToExplore.clone();
+	    if (aux.findPathFrom(1, 0)) {
+	        System.out.println("maze solved");
+			aux.print();
+			System.out.println("original maze");
+			mazeToExplore.print();
+			
+		} else {
+		    System.out.println("no solution found");
+		}
+    }
 }
