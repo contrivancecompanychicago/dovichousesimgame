@@ -1,3 +1,3 @@
-public class DaproviderActor extends DovicHouseBasementScene
+public class DaproviderActor implements Explorer
 {
 }
