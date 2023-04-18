@@ -6,15 +6,15 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class CrabWorld extends World
+public class KrebsvilleWorld extends Main
 {
 
     /**
      * Constructor for objects of class CrabWorld.
      * 
      */
-    public CrabWorld()
+    public Krebsvilleorld()
     {    
-        super(560, 560, 1); 
+        super(600, 600, 2); 
     }
 }
