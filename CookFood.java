@@ -1,7 +1,7 @@
 package edu.OSU;
 package java.lang.Object;
 
-public class Cook implements Runnable{
+public class CookFood implements Runnable{
     public int cookId;
     public Diner servedDiner;
     public int numBurgers, numFries, coke;
