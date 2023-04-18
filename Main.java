@@ -5,6 +5,7 @@ import com.dovichousesimgame.PrevalenceGame;
 import com.dovichousesimgame.KrebsvilleWorld;
 import com.dovichousesimgame.Chicagolike;
 import com.dovichousesimgame.DovicHouseBasementScene;
+import com.dovichousesimgame.CookFood;
 
 public class dovichousesimgameMain {
     public static void main(String[] args) {
