@@ -6,6 +6,9 @@ import com.dovichousesimgame.KrebsvilleWorld;
 import com.dovichousesimgame.Chicagolike;
 import com.dovichousesimgame.DovicHouseBasementScene;
 import com.dovichousesimgame.CookFood;
+import com.dovichousesimgame.SmeagolLotrenenyActor;
+import com.dovichousesimgame.DaproviderActor;
+import com.dovichousesimgame.Explorer;
 
 public class dovichousesimgameMain {
     public static void main(String[] args) {
