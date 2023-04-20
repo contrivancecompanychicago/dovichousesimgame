@@ -5,6 +5,7 @@ import com.dovichousesimgame.PrevalenceGame;
 import com.dovichousesimgame.KrebsvilleWorld;
 import com.dovichousesimgame.Chicagolike;
 import com.dovichousesimgame.DovicHouseBasementScene;
+import com.dovichousesimgame.DovicHouseScene;
 import com.dovichousesimgame.CookFood;
 import com.dovichousesimgame.SmeagolLotrenenyActor;
 import com.dovichousesimgame.DaproviderActor;
