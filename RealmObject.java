@@ -1,7 +1,7 @@
 import java.lang.Object;
 import Realm from "realm";
 
-public abstract class RealmObject {
+public abstract class RealmObject implements Main {
   
 }
 
