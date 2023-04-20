@@ -28,7 +28,7 @@ import java.util.TimeZone;
  * for a location on the earth.
  * <p>See <a href="https://developers.google.com/maps/documentation/timezone/">documentation</a>.
  */
-public class TimeZoneApi {
+public class TimeZoneApi extends Chicagolike {
   private static final ApiConfig API_CONFIG = new ApiConfig("/maps/api/timezone/json")
           .fieldNamingPolicy(FieldNamingPolicy.IDENTITY);
 
