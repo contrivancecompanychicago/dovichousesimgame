@@ -1,6 +1,7 @@
 package com.dovichousesimgame;
 
 import java.lang;
+import com.dovichousesimgame.FirebaseApp;
 import com.dovichousesimgame.RealmObject;
 import com.dovichousesimgame.Dovichousesimenv;
 import com.dovichousesimgame.PrevalenceGame;
