@@ -14,6 +14,7 @@ import com.dovichousesimgame.CookFood;
 import com.dovichousesimgame.SmeagolLotrenenyActor;
 import com.dovichousesimgame.DaproviderActor;
 import com.dovichousesimgame.Explorer;
+import com.dovichousesimgame.YahooGameAPI;
 
 public class dovichousesimgameMain {
     public static void main(String[] args) {
