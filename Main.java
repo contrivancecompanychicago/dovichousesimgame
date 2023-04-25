@@ -15,6 +15,7 @@ import com.dovichousesimgame.SmeagolLotrenenyActor;
 import com.dovichousesimgame.DaproviderActor;
 import com.dovichousesimgame.Explorer;
 import com.dovichousesimgame.YahooGameAPI;
+import com.dovichousesimgame.Exception;
 
 public class dovichousesimgameMain {
     public static void main(String[] args) {
