@@ -1,4 +1,6 @@
 import com.yahoo.fantasy.api.GameAPI;
+import java.lang.Object;
+import java.lang.Math;
 
 public class YahooGameAPI extends Explorer {
 
