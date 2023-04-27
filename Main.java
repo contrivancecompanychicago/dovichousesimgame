@@ -7,6 +7,7 @@ import com.dovichousesimgame.Dovichousesimenv;
 import com.dovichousesimgame.PrevalenceGame;
 import com.dovichousesimgame.KrebsvilleWorld;
 import com.dovichousesimgame.Chicagolike;
+import com.dovichousesimgame.SODAChicagoFoodDesertMap;
 import com.dovichousesimgame.TimeZoneApi;
 import com.dovichousesimgame.DovicHouseBasementScene;
 import com.dovichousesimgame.DovicHouseScene;
