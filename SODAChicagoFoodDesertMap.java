@@ -9,7 +9,7 @@ import com.mapbox.mapboxsdk.maps.MapView;
 import com.mapbox.mapboxsdk.maps.MapboxMap;
 import com.mapbox.mapboxsdk.maps.Style;
 
-public class SODAChicagoFoodDesertMap {
+public class SODAChicagoFoodDesertMap implements Main {
 
     public static void main(String[] args) {
         // Import the necessary libraries.
