@@ -1,6 +1,6 @@
 import greenfoot.*;
 
-public class DaproviderActor implements Explorer
+public class DaproviderActor extends Character
 {
   public void act()
   {
