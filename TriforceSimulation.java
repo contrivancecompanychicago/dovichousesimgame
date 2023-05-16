@@ -1,4 +1,4 @@
-public class TriforceSimulation {
+public class TriforceSimulation extends Triforce {
 
     private Triforce triforce;
     private ArrayList<Molecule> molecules;
