@@ -1,4 +1,4 @@
-public class Triforce {
+public class Triforce extends DovicHouseScene {
 
     private double epsilon;
     private double sigma;
